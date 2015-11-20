@@ -39,7 +39,6 @@ int main()
 	Sleep(150);
 	slowType("Your mad lib has been made. Enjoy!");
 	slowType("I was back at " + place + ". Man, that was terrible. I needed to eat something, so I got " + food + " out of the fridge. It made me feel " + feeling + ". After that, I headed to " + room + ", and sat there. Then, " + number + " hour(s) later, I got back up, and went to bed.");
-	slowType("Remember to also check out Part 3, the sequel! It contains a whooping 15 inputs!");
 	string like;
 	slowType("How did you like the program?");
 	getline(cin, like);
