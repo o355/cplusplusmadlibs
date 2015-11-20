@@ -7,7 +7,7 @@ void slowType(string str);
 
 int main()
 {
-	slowType("Welcome to Mad Libs (Part 3 - The Finale)");
+	slowType("Welcome to Mad Libs (Part 3)");
 	slowType("This contains 12 spots for you to fill in.");
 	string number;
 	slowType("Please, type in a number");
