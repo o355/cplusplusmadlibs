@@ -39,7 +39,7 @@ int main()
 	Sleep(150);
 	slowType("Your mad lib has been made. Enjoy!");
 	slowType("I just woke up. I was feeling " + feeling + ". My mom came into my room. She was " + feeling2 + " about me. I told her " + tell + ". She responded with  " + tell2 + ". I went back to bed, for about " + number + " hours.");
-	slowType("Remember to also check out Part 3, the sequel! It contains a whooping 15 inputs!");
+	slowType("And that's it for the Mad Libs series. Hope you enjoyed it!");
 	string like;
 	slowType("How did you like the program?");
 	getline(cin, like);
