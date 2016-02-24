@@ -39,26 +39,13 @@ int main()
 	string mode2;
 	slowType("Cool! Last input! Enter a second mode of transportation.");
 	getline(cin, mode2);
-	slowType("Great! We're making your Mad Lib, give us a second.");
-	Sleep(300);
-	slowType("Making your Mad Lib, 26% complete.");
-	Sleep(650);
-	slowType("Making your Mad Lib, 52% complete.");
-	Sleep(220);
-	slowType("Making your Mad Lib, 79% complete.");
-	Sleep(1800);
-	slowType("Making your Mad Lib, 83% complete.");
-	Sleep(1000);
-	slowType("Making your Mad Lib, 100% complete!");
-	slowType("Cleaning up...");
-	Sleep(150);
-	slowType("Your mad lib has been made. Enjoy!");
+	slowType("Great! Your mad lib should be spitting out right now.");
 	slowType("I woke up feeling " + feeling + ". I looked at my alarm clock, and it said " + time + ". Oh no! I was running really late to " + place + ". I hopped on the " + modeof + ", and headed to " + place + ". When I got to " + place + ", something very odd happened. " + somethingodd + " was going on...interesting. I then saw " + name + ". I was so " + feeling2 + ". " + name + " said to me Go home, you are not my friend any more. I was so " + feeling3 + ". I went back home, on the " + mode2 + ". I was very " + feeling4);
 	slowType("(c) 2015 Owen McGinley. Thanks for checking this out!");
 	string didyou;
-	slowType("Did you like this program?");
+	slowType("Press enter to close the program.");
 	getline(cin, didyou);
-	slowType("Thanks for the rating! Closing the program now.");
+	slowType("Closing...");
 	
 
 		//FINAL: I woke up feeling (FEELING). I looked at my alarm clock, and it said (TIME). Oh no! I was really running late to (PLACE). I hopped on the (MODE OF TRANSPORT), and headed to (PLACE). When I got to (PLACE), something very odd happened. (SOMETHINGODD) was going on...interesting. I then saw (NAME). I was so (FEELING 2). (NAME) said to me "Go home. You aren't my friend any more. I was so (FEELING 3). I went back home, on (MODE 2). I was very (FEELING 4).
