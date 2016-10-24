@@ -24,8 +24,7 @@ int main()
 	string number;
 	slowType("Super cool! Last input! Please type in a number.");
 	getline(cin, number);
-	slowType("Great! We're making your Mad Lib, give us a second.");
-	slowType("Your mad lib has been made. Enjoy!");
+	slowType("Great! We're currently ready to free up some RAM by spitting out your Mad Lib.");
 	slowType("I was back at " + place + ". Man, that was terrible. I needed to eat something, so I got " + food + " out of the fridge. It made me feel " + feeling + ". After that, I headed to " + room + ", and sat there. Then, " + number + " hour(s) later, I got back up, and went to bed.");
 	string like;
 	slowType("How did you like the program?");
