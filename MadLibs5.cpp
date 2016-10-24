@@ -1,4 +1,4 @@
-//This mad libs is here for when I have absolutely nothing to do and work on it. Maybe I'll make more?
+//This comment was here stating that I would work on this when I was bored. PyTerm replaced that.
 
 #include <iostream>
 #include <string>
