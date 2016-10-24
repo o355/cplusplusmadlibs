@@ -41,7 +41,7 @@ int main()
 	getline(cin, mode2);
 	slowType("Great! Your mad lib should be spitting out right now.");
 	slowType("I woke up feeling " + feeling + ". I looked at my alarm clock, and it said " + time + ". Oh no! I was running really late to " + place + ". I hopped on the " + modeof + ", and headed to " + place + ". When I got to " + place + ", something very odd happened. " + somethingodd + " was going on...interesting. I then saw " + name + ". I was so " + feeling2 + ". " + name + " said to me Go home, you are not my friend any more. I was so " + feeling3 + ". I went back home, on the " + mode2 + ". I was very " + feeling4);
-	slowType("(c) 2015 Owen McGinley. Thanks for checking this out!");
+	slowType("(c) 2015-2016 o355. Thanks for checking this out!");
 	string didyou;
 	slowType("Press enter to close the program.");
 	getline(cin, didyou);
