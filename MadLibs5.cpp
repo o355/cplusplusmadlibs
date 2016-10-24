@@ -10,7 +10,7 @@ void slowType(string str);
 int main()
 {
 	slowType("Welcome to Mad Libs (Part 5)");
-	slowType("This contains 12 spots for you to fill in.");
+	slowType("This contains 5 spots for you to fill in.");
 	string day;
 	slowType("Please, type in a day");
 	getline(cin, day);
@@ -26,22 +26,9 @@ int main()
 	string number;
 	slowType("Super cool! Last input! Please type in a number.");
 	getline(cin, number);
-	slowType("Great! We're making your Mad Lib, give us a second.");
-	Sleep(300);
-	slowType("Making your Mad Lib, 26% complete.");
-	Sleep(650);
-	slowType("Making your Mad Lib, 46% complete.");
-	Sleep(220);
-	slowType("Making your Mad Lib, 79% complete.");
-	Sleep(350);
-	slowType("Making your Mad Lib, 83% complete.");
-	Sleep(240);
-	slowType("Making your Mad Lib, 100% complete!");
-	slowType("Cleaning up...");
-	Sleep(150);
-	slowType("Your mad lib has been made. Enjoy!");
+	slowType("Creative you finished your mad lib goes here.");
 	slowType("I just woke up. I was feeling " + feeling + ". My mom came into my room. She was " + feeling2 + " about me. I told her " + tell + ". She responded with  " + tell2 + ". I went back to bed, for about " + number + " hours.");
-	slowType("And that's it for the Mad Libs series. Hope you enjoyed it!");
+	slowType("And that's actually it for the Mad Libs series. Hope you enjoyed it!");
 	string like;
 	slowType("How did you like the program?");
 	getline(cin, like);
