@@ -1,7 +1,7 @@
-# Mad Libs in C++
-The 4 source code (C++) files for the C++ project for iD 2015 available at owenthe.ninja
-You're free to make whatever you want out of this, just make sure to give me original credit (It's under the MIT License)
+Please visit https://gitlab.com/o355/cplusplusmadlibs for the active repository and code.
 
-Code will never be updated (except to remove the stupid loading times). Forgot C++. I think I know cout.
+## Why did you move to GitLab?
+I do not want to support GitHub after Microsoft acquired GitHub. I do not support publishing my work on a website owned by an extremely anti-user, pro-proprietary and pro-surveillance company.
 
-Things around here will get occasionally updated, but not too often.
+## Why delete your code?
+I do not want my code published on this site anymore.
